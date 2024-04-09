@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomniumFastCrispr", "SomniumFastCrispr\SomniumFastCrispr.csproj", "{FCDEF57C-7235-4CBA-AEAF-6EE796D4B6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDEF57C-7235-4CBA-AEAF-6EE796D4B6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDEF57C-7235-4CBA-AEAF-6EE796D4B6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDEF57C-7235-4CBA-AEAF-6EE796D4B6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDEF57C-7235-4CBA-AEAF-6EE796D4B6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3042B0B6-BE1A-4591-AB07-B3294871B972}
+	EndGlobalSection
+EndGlobal

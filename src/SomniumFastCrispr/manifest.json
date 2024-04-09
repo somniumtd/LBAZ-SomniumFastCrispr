@@ -1,0 +1,9 @@
+﻿{
+  "Id": "SomniumTD.SomniumFastCrispr",
+  "Name": "SomniumFastCrispr",
+  "Author": "Somnium",
+  "Version": "1.0.0",
+  "Description": "CRISPR hybrids only take one day to create.",
+  "EntryFile": "SomniumFastCrispr.dll",
+  "MinimumApiVersion": "1.0.0"
+}
