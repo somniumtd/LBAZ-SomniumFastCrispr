@@ -4,7 +4,7 @@
 		<AssemblyName>SomniumFastCrispr</AssemblyName>
 		<RootNamespace>SomniumFastCrispr</RootNamespace>
     <Version>1.0.0</Version>
-    <Author>SomniumTD</Author>
+    <Author>Somnium</Author>
     <Platforms>AnyCPU</Platforms>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <TargetFramework>net45</TargetFramework>
